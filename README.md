@@ -1,18 +1,18 @@
-# Stock-Price-Analysis
+# Stock Price Analysis using R
 
 Stock price analysis is a handy way for investors to spot market momentum and trend shifts. In this mini‑project we tap into the quantmod toolkit to pull live price data and layer on moving‑average insights.
 
 ⚙️ What you’ll need
 
-1. R installed locally
+R installed locally
 
-2. A working internet connection (to retrieve current price data)
+A working internet connection (to retrieve current price data)
 
 🛠️ R packages
 
-1. quantmod – grabs market data with a single line
+quantmod – grabs market data with a single line
 
-2. TTR – supplies a rich set of technical‑analysis functions
+TTR – supplies a rich set of technical‑analysis functions
 
 📝 Workflow
 
